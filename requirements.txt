@@ -3,6 +3,7 @@ aria2p
 asyncio
 beautifulsoup4
 cfscrape
+cloudscraper
 feedparser
 flask
 google-api-python-client
@@ -17,7 +18,7 @@ psutil
 psycopg2-binary
 pybase64
 pycryptodomex
-pyrogram==2.0.73
+pyrogram==2.0.15
 python-dotenv
 python-magic
 python-telegram-bot==13.15
